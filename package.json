@@ -1,0 +1,19 @@
+{
+  "name": "wiremock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "go":"java -jar wiremock-jre8-standalone-2.29.1.jar"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spyspy/wiremock-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spyspy/wiremock-test/issues"
+  },
+  "homepage": "https://github.com/spyspy/wiremock-test#readme"
+}
