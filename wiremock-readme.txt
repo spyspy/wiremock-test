@@ -13,10 +13,12 @@ npm run go
 
 3. Go to Browser
 
-Eg:
+EX:
 http://localhost:8080/test/api/json
 
+http://localhost:8080/test/api
 
+http://localhost:8080/test/xml
 
 =================
 Github PROCESS
