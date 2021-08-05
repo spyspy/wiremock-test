@@ -1,0 +1,14 @@
+ {
+            "request": {
+                "headers": {},
+                "method": "GET",
+                "url": "/test/api/json"
+            },
+            "response": {
+                "jsonBody": {"WOW1":"KKKK","WOW2":"SHHSH"},
+                "headers": {
+                    "Content-Type": "text/plain"
+                },
+                "status": 200
+            }
+        }

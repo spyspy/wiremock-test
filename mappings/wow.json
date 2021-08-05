@@ -1,0 +1,14 @@
+ {
+            "request": {
+                "headers": {},
+                "method": "GET",
+                "url": "/test/api"
+            },
+            "response": {
+                "body": "Hello world!",
+                "headers": {
+                    "Content-Type": "text/plain"
+                },
+                "status": 200
+            }
+        }

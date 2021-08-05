@@ -1,0 +1,14 @@
+ {
+            "request": {
+                "headers": {},
+                "method": "GET",
+                "url": "/test/api/xml"
+            },
+            "response": {
+                "bodyFileName": "wowXML.xml",
+                "headers": {
+                    "Content-Type": "application/xml"
+                },
+                "status": 200
+            }
+        }
