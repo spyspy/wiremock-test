@@ -6,6 +6,10 @@ http://wiremock.org/docs/running-standalone/
 
 java -jar wiremock-jre8-standalone-2.29.1.jar
 
+2-1 Or You Might USE: NPM RUN
+
+npm run go
+
 
 3. Go to Browser
 
