@@ -1,10 +1,16 @@
 1. DOWNLOAD
 http://wiremock.org/docs/download-and-installation/
 
-2. RUN COMMAND LINE
+2. RUN COMMAND LINE and RUN wiremock server
 http://wiremock.org/docs/running-standalone/
 
 java -jar wiremock-jre8-standalone-2.29.1.jar
+
+
+3. Go to Browser
+
+Eg:
+http://localhost:8080/test/api/json
 
 
 
