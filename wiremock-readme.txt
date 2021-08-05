@@ -31,8 +31,10 @@ git remote add origin  <REMOTE_URL>
 git remote -v
 
 ---------------------
+What you will see:
 git remote -v
 origin  https://github.com/spyspy/wiremock-test.git (fetch)
 origin  https://github.com/spyspy/wiremock-test.git (push)
 ---------------------
 
+git push origin main
