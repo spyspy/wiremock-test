@@ -16,7 +16,7 @@ npm run go
 ```
 
 
-# 3. Go to Browser
+# 3. Go to Browser@
 
 EX:
 [http://localhost:8080/test/api/json](http://localhost:8080/test/api/json)
