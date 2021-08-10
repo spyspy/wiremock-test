@@ -1,6 +1,8 @@
 # 1. DOWNLOAD
 [http://wiremock.org/docs/download-and-installation/](http://wiremock.org/docs/download-and-installation/)
 
+
+
 # 2. RUN COMMAND LINE and RUN wiremock server
 [http://wiremock.org/docs/running-standalone/](http://wiremock.org/docs/running-standalone/)
 
@@ -19,7 +21,7 @@ npm run go
 EX:
 [http://localhost:8080/test/api/json](http://localhost:8080/test/api/json)
 
-[http://localhost:8080/test/api](http://localhost:8080/test/api)
+[http://localhost:8080/test/api](http://localhost:8080ftest/api)
 
 [http://localhost:8080/test/api/xml](http://localhost:8080/test/api/xml)
 
